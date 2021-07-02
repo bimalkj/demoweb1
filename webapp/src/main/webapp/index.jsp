@@ -8,6 +8,7 @@ if (num>50)
 	out.println("Number is above 50");
 else
 	out.println("Number is below 50");
+out.println("Value is "+Integer.toString(num));
 %>
 </body>
 </html>
